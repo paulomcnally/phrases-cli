@@ -1,0 +1,19 @@
+{
+  "name": "phrases-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.1.2",
+    "gm": "1.21.1",
+    "imgur": "0.1.7",
+    "prompt": "0.2.14",
+    "request": "2.67.0",
+    "wordwrap": "1.0.0"
+  }
+}
